@@ -1,0 +1,26 @@
+﻿{
+    //标题
+    "title": "SuperTerm",
+    //主机列表
+    "hostlist": {
+        "Phoenix": {
+            "url": "shk.ap.averydennison.net",
+            "port": 23
+        },
+        "Trim": {
+            "url": "rs0.ap.averydennison.net",
+            "port": 23
+        },
+        "TEST": {
+            "url": "hello.com",
+            "port": 23
+        }
+    },
+    //基本设置
+    "baseSetting": {
+        "printfilename": "print.txt"
+    },
+    "userSetting": {
+        "mode": "debug"
+    }
+}
